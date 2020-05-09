@@ -1,8 +1,7 @@
+package main;
 
-import mystore.Bacground;
-import mystore.Login;
-
-import java.io.IOException;
+import tables.Bacground;
+import tables.Login;
 
 
 public class RunStore {

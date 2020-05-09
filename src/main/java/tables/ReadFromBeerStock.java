@@ -1,4 +1,4 @@
-package mystore;
+package tables;
 import org.apache.commons.lang.StringUtils;
 
 import javax.swing.*;

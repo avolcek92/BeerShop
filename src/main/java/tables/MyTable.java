@@ -1,4 +1,4 @@
-package mystore;
+package tables;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -9,7 +9,7 @@ import java.util.List;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
-public class MyTable extends MyFrame{
+public class MyTable extends MyFrame {
     Bacground bacground = new Bacground();
     public MyTable() throws Exception {
 
@@ -34,7 +34,7 @@ public class MyTable extends MyFrame{
         frame.add(panel2, BorderLayout.NORTH);
         int width =frame.getWidth()/256;
         for(int i = 0; i<width;i++) {
-            JLabel background =  new JLabel(new ImageIcon("C:\\JAVA\\Projects\\1.jfif"));
+            JLabel background =  new JLabel(new ImageIcon("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\1.jfif"));
             panel2.add(background);
 
         }

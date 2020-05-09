@@ -1,4 +1,4 @@
-package mystore;
+package tables;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,15 +1,14 @@
-package mystore;
+package tables;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.IOException;
 
 public class Bacground extends JFrame {
     public static JFrame frame = new JFrame("Gentlemen Store");
 
 
          public Bacground()  {
-             JLabel background=new JLabel(new ImageIcon("C:\\JAVA\\Projects\\image4.png"));
+             JLabel background=new JLabel(new ImageIcon("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\image4.png"));
              frame.setLayout(new BorderLayout());
              frame.add(background);
              background.setLayout(new FlowLayout());

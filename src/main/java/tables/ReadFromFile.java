@@ -1,4 +1,4 @@
-package mystore;
+package tables;
 
 
 import java.io.BufferedReader;
@@ -16,7 +16,7 @@ public class ReadFromFile {
     }
 
     public void fileReader() throws Exception {
-        BufferedReader fileReader = new BufferedReader(new FileReader("C:\\JAVA\\Projects\\file.txt"));
+        BufferedReader fileReader = new BufferedReader(new FileReader("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\file.txt"));
         String line;
         String pass = String.valueOf(password);
         while((line = fileReader.readLine()) !=null){

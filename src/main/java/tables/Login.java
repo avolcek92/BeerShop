@@ -1,4 +1,5 @@
-package mystore;
+package tables;
+
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,7 +10,7 @@ import java.util.Arrays;
 import static javax.swing.GroupLayout.Alignment.CENTER;
 import static javax.swing.GroupLayout.Alignment.LEADING;
 
-public class Login extends MyFrame{
+public class Login extends MyFrame {
     public void login() {
 
         //final JFrame frame = new JFrame("Login");
