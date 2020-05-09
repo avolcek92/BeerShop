@@ -1,0 +1,52 @@
+Carlsberg/Lager/5.1/1.25
+Tuborg Green/Lager/4.6/0.89
+VOLFAS White/Ale/5.0/1.15
+Faxe Premium/Lager/5.0/0.71
+Svyturio Extra/Lager/5.2/1.19
+Svyturio Baltas/Ale/5.2/1.15
+1410/Lager/5.3/0.99
+Kalnapilis Original/Lager/5.0/0.92
+Birzu Legenda/Ale/5.8/1.32
+Dirty Duck/Ale/5.2/0.99
+Kronunger/Lager/5.0/0.59
+Heiliger/Lager/5.2/0.69
+Hafen/Lager/5.0/0.69
+Carlsberg/Lager/5.1/1.25
+Tuborg Green/Lager/4.6/0.89
+VOLFAS White/Ale/5.0/1.15
+Faxe Premium/Lager/5.0/0.71
+Svyturio Extra/Lager/5.2/1.19
+Svyturio Baltas/Ale/5.2/1.15
+1410/Lager/5.3/0.99
+Kalnapilis Original/Lager/5.0/0.92
+Birzu Legenda/Ale/5.8/1.32
+Dirty Duck/Ale/5.2/0.99
+Kronunger/Lager/5.0/0.59
+Heiliger/Lager/5.2/0.69
+Hafen/Lager/5.0/0.69
+Carlsberg/Lager/5.1/1.25
+Tuborg Green/Lager/4.6/0.89
+VOLFAS White/Ale/5.0/1.15
+Faxe Premium/Lager/5.0/0.71
+Svyturio Extra/Lager/5.2/1.19
+Svyturio Baltas/Ale/5.2/1.15
+1410/Lager/5.3/0.99
+Kalnapilis Original/Lager/5.0/0.92
+Birzu Legenda/Ale/5.8/1.32
+Dirty Duck/Ale/5.2/0.99
+Kronunger/Lager/5.0/0.59
+Heiliger/Lager/5.2/0.69
+Hafen/Lager/5.0/0.69
+Carlsberg/Lager/5.1/1.25
+Tuborg Green/Lager/4.6/0.89
+VOLFAS White/Ale/5.0/1.15
+Faxe Premium/Lager/5.0/0.71
+Svyturio Extra/Lager/5.2/1.19
+Svyturio Baltas/Ale/5.2/1.15
+1410/Lager/5.3/0.99
+Kalnapilis Original/Lager/5.0/0.92
+Birzu Legenda/Ale/5.8/1.32
+Dirty Duck/Ale/5.2/0.99
+Kronunger/Lager/5.0/0.59
+Heiliger/Lager/5.2/0.69
+Hafen/Lager/5.0/0.69
