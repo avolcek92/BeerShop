@@ -14,7 +14,6 @@ public class MyTable extends MyFrame {
     public MyTable() throws Exception {
 
         bacground.closeBackground();
-       // JFrame frame = new JFrame("Gentlemen Store");
         frame.setName("Gentlemen Store");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
@@ -103,7 +102,6 @@ public class MyTable extends MyFrame {
         btnCart.addActionListener(
                 new ActionListener() {
                     public void actionPerformed  (ActionEvent evt) {
-                        //System.out.println((String) Arrays.toString(table.getSelectedRows()));
                         List<String> column1 = new ArrayList<String>();
                         List<String> column2 = new ArrayList<String>();
                         List<String> column3 = new ArrayList<String>();

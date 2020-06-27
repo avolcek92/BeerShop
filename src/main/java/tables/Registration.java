@@ -12,7 +12,6 @@ import static javax.swing.GroupLayout.Alignment.LEADING;
 public class Registration extends MyFrame {
     Bacground bacground = new Bacground();
     public void registration()  {
-        //final JFrame frame = new JFrame("Registration");
         JPanel panel = new JPanel();
         JLabel komentaras = new JLabel("Create cool man account");
         JLabel komentaras1 = new JLabel("Name, Lastname");

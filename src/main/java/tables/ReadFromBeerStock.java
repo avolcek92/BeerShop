@@ -1,7 +1,7 @@
 package tables;
 import org.apache.commons.lang.StringUtils;
 
-import javax.swing.*;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.lang.reflect.Array;

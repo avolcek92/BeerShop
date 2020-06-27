@@ -22,7 +22,6 @@ public class OrderedBag extends MyFrame {
         JPanel panel = new JPanel();
         JLabel label = new JLabel("Amount is: "+sum);
         JButton button = new JButton("Go to Pay");
-        //JButton button1 = new JButton("Remove");
         frame.add(panel, BorderLayout.SOUTH);
         panel.setBackground(Color.white);
         panel.add(label);

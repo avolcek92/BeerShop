@@ -13,7 +13,7 @@ import static javax.swing.GroupLayout.Alignment.LEADING;
 public class Login extends MyFrame {
     public void login() {
 
-        //final JFrame frame = new JFrame("Login");
+
         JPanel panel = new JPanel();
 
         JLabel textLabel = new JLabel("Welcome to shop for Gentlemen Store!");
