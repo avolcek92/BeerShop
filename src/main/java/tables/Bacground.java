@@ -8,7 +8,7 @@ public class Bacground extends JFrame {
 
 
          public Bacground()  {
-             JLabel background=new JLabel(new ImageIcon("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\image4.png"));
+             JLabel background=new JLabel(new ImageIcon("src\\main\\resources\\image4.png"));
              frame.setLayout(new BorderLayout());
              frame.add(background);
              background.setLayout(new FlowLayout());
