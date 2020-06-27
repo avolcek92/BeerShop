@@ -21,7 +21,7 @@ public class WriteToFile {
     }
 
     public void fileWriter() throws Exception{
-        FileWriter fileWriter = new FileWriter("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\file.txt", true);
+        FileWriter fileWriter = new FileWriter("src\\main\\resources\\file.txt", true);
         fileWriter.write("\n");
         fileWriter.write(name+" ");
         fileWriter.write(email+" ");
