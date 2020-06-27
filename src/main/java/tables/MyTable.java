@@ -33,7 +33,7 @@ public class MyTable extends MyFrame {
         frame.add(panel2, BorderLayout.NORTH);
         int width =frame.getWidth()/256;
         for(int i = 0; i<width;i++) {
-            JLabel background =  new JLabel(new ImageIcon("C:\\JAVA\\Projects\\MyOnlineShop\\src\\main\\resources\\1.jfif"));
+            JLabel background =  new JLabel(new ImageIcon("src\\main\\resources\\1.jfif"));
             panel2.add(background);
 
         }
